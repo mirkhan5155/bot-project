@@ -5,9 +5,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, fil
 
 TOKEN = "8525829777:AAH9NyB7CEJk-zjxpgrPRvGv6QE0JWd59hg"
 GROUP_ID = -5250872065  # group id
-
 ADMIN_ID = 103603233  # sening telegram id
-
 EMPLOYEES = [123456789]  # ruxsat berilganlar
 
 # States
