@@ -10,7 +10,7 @@ from telegram.ext import (
     ConversationHandler
 )
 
-TOKEN = "TOKENNI_BU_YERGA_QO‘Y"
+TOKEN = "8525829777:AAHa4J2Lq2K6JEsv3T6yjJYFLGHLDs3zc8w"
 
 GROUP_ID = -1003992648575
 ADMIN_ID = 103603233
