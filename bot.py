@@ -86,4 +86,5 @@ conv = ConversationHandler(
 app.add_handler(conv)
 app.add_handler(CommandHandler("report", report))
 
+if __name__ == "__main__":
 app.run_polling()
