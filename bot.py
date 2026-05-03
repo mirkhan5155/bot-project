@@ -3,7 +3,7 @@ from datetime import datetime
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes, ConversationHandler
 
-TOKEN = "8525829777:AAH9NyB7CEJk-zjxpgrPRvGv6QE0JWd59hg"
+TOKEN = "8525829777:AAHa4J2Lq2K6JEsv3T6yjJYFLGHLDs3zc8w"
 GROUP_ID = -1003992648575  # group id
 
 ADMIN_ID = 103603233  # sening telegram id
