@@ -4,8 +4,7 @@ from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes, ConversationHandler
 
 TOKEN = "8525829777:AAH9NyB7CEJk-zjxpgrPRvGv6QE0JWd59hg"
-
-GROUP_ID = -5250872065  # group id
+GROUP_ID = -1003992648575  # group id
 
 ADMIN_ID = 103603233  # sening telegram id
 
