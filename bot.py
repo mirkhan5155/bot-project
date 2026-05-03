@@ -13,7 +13,7 @@ EMPLOYEES = [123456789]  # ruxsat berilganlar
 # States
 PHONE, SERVICE = range(2)
 
-services = ["Beeline", "Uztelekom", "Ucell", "Mobiuz"]
+services = [["Remont", "Diagnostika"], ["O‘rnatish"]]
 
 # DB
 conn = sqlite3.connect("data.db", check_same_thread=False)
