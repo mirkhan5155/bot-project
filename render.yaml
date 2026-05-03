@@ -1,6 +1,9 @@
-services:
+  services:
   - type: web
-    name: telegram-bot
+    name: bot-project
     env: python
-    buildCommand: ""
+    plan: free
+    buildCommand: pip install -r requirements.txt
     startCommand: python bot.py
+    runtime: python
+    pythonVersion: 3.11.9
